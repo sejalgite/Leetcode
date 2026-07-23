@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sejalgite/Leetcode/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/sejalgite/Leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
